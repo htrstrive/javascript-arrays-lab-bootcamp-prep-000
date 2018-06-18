@@ -1,1 +1,3 @@
-destructivelyAppendKitten(name)
+function destructivelyAppendKitten(name){
+  
+}
